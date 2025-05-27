@@ -1,0 +1,16 @@
+atividade - atravessando a rua em segurança
+
+se sinal = "verde" ou "amarelo" 
+	esperar
+senão
+	atravessar
+ 
+se carros = "pertos"
+	esperar 
+senão 
+	atravessar 
+ 
+se sinal = "verde" ou "amarelo" 
+	esperar
+senão
+	atravessar

@@ -5,7 +5,7 @@ feche a garra
 gire  a garra sentido anti-horário
 mova a garra para mesa
 abra a garra
-mova a garra para lâmpada nova
+mova a garra para lâm
 feche a garra
 mova a garra para o bocal da lampada
 gire a lâmpada sentido horário
@@ -13,5 +13,6 @@ abra a garra
 
 
 
+Atividade finalizada
 
-========================================
+
